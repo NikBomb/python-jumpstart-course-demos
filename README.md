@@ -14,9 +14,9 @@ What applications will we build?
 
 We will build the following apps, which among many other things, focus on the language concepts listed under them.
 
-1. [**Hello world**](https://github.com/NikBomb/python-jumpstart-course-demos/tree/master/apps/01_hello_world)
+1. [**Hello world**](https://github.com/NikBomb/python-jumpstart-course-demos/tree/master/apps/01_hello_world/you_try)
     * test your environment 
-2. [**Guess that number**](https://github.com/NikBomb/python-jumpstart-course-demos/tree/master/apps/02-guess-number-app) 
+2. [**Guess that number**](https://github.com/NikBomb/python-jumpstart-course-demos/tree/master/apps/02-guess-number-app/you_try) 
     * user input
     * conditionals
     * string parsing 
