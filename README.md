@@ -1,12 +1,9 @@
-# Python Jumpstart by Building 10 Apps Course Demos
+
+# My implementation of Python Jumpstart by Building 10 Apps Course Demos
 
 This repository contains all the "handout" materials for my [Python Jumpstart by Building 10 Apps course](https://training.talkpython.fm/courses/details/python-language-jumpstart-building-10-apps). This includes **try it yourself** and **finished** versions of the 10 apps. 
 
-[Register for the course](https://training.talkpython.fm/courses/details/python-language-jumpstart-building-10-apps) and get started mastering Python today.
-
-Not familiar with my Python jumpstart course? Here's a quick intro video.
-
-[![Learn more about Python Jumpstart by Building 10 Apps Course](readme_resources/video_play.png)](https://training.talkpython.fm/courses/details/python-language-jumpstart-building-10-apps)
+My implementations are in the App folder under you try [e.g. /apps/05_weather_client/you_try/program.py]
 
 The 10 apps
 ===================
@@ -47,17 +44,3 @@ We will build the following apps, which among many other things, focus on the la
     * error handling
     * exceptions
     * Advanced HTTP clients
-
-Thanks to my backers
-=============
-
-Thanks to everyone who backed the Kickstarter campaign. I want to give a [special thanks to backers who backed the project at extra level](https://github.com/mikeckennedy/python-jumpstart-course-demos/blob/master/Credits.md) to make this happen!
-
-Want to enroll in the course?
-=============
-
-That'd be wonderful! Currently it's in production. Check out [Talk Python Training's course page](https://training.talkpython.fm/courses/details/python-language-jumpstart-building-10-apps) to get started today.
-
-Thanks!
-
-[@mkennedy](https://twitter.com/mkennedy)
